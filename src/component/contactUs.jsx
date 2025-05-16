@@ -45,7 +45,7 @@ const ContactUs = () => {
 
 
   const handleWhatsAppClick = () => {
-    const phoneNumber = "8074322007";
+    const phoneNumber = "+918074322007";
     const message = "Hi, I came from your website!";
     const url = `https://wa.me/${phoneNumber}?text=${encodeURIComponent(
       message

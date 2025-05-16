@@ -40,7 +40,7 @@ const Home = () => {
   </a>
 
   <a
-    href="https://wa.me/8074322007"
+    href="https://wa.me/+918074322007"
     target="_blank"
     rel="noopener noreferrer"
   >

@@ -50,7 +50,7 @@ const Footer = () => {
               <FaGithub size={20} />
             </a>
             <a
-              href="https://wa.me/918074322007?text=Hi%2C%20I%20came%20from%20your%20website!"
+              href="https://wa.me/+918074322007?text=Hi%2C%20I%20came%20from%20your%20website!"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-white"
