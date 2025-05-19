@@ -47,7 +47,7 @@ const Faqs = () => {
   };
 
   return (
-    <section className="w-full px-6 md:px-20 py-16 bg-gray-900 text-white">
+    <section className="w-full px-6 md:px-20 py-16 text-white">
       <motion.h2
         className="text-4xl font-bold text-center mb-10"
         initial={{ opacity: 0, y: -30 }}

@@ -1,5 +1,5 @@
 import React from 'react';
-import Navbar from "./navbar.jsx"
+import Navbar from "./Navbar.jsx"
 import { Typewriter } from 'react-simple-typewriter';
 import { Button } from './reuseableUiComponents/button.jsx';
 import { motion } from 'framer-motion';
