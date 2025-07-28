@@ -104,9 +104,9 @@ const Home = () => {
         <div className="w-full md:w-1/2 flex justify-center">
         {/* Desktop/Tablet Image */}
         <img
-            src="/developer-img.png"
+            src="/developer-image.jpg"
             alt="Freelancer"
-            className="hidden md:block max-w-xs md:max-w-md lg:max-w-lg object-contain"
+            className="hidden md:block max-w-xs md:max-w-xs lg:max-w-md object-contain rounded-full"
         />
 
         {/* Mobile Image */}
